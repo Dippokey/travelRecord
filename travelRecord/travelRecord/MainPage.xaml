@@ -8,17 +8,20 @@
                  Margin="30">
         <Entry x:Name="emailEntry"
                Placeholder="Email"
-               Keyboard="Email"/>
+               Keyboard="Email"
+               TextColor="{StaticResource LogInColor}"
+               Text="hello"
+               />
 
         <Entry x:Name="passwordEntry"
                Placeholder="Password"
-               IsPassword="True"/>
+               IsPassword="True"
+               TextColor="{StaticResource LogInColor}"
+               />
 
         <Button x:Name="loginButton"
                 Text="Log In"
                 Clicked="loginButton_Clicked"
-                BackgroundColor="DodgerBlue"
-                TextColor="White"
                 Margin="0,50,0,0"
                 />
 

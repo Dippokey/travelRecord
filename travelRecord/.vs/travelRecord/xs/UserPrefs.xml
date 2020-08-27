@@ -1,22 +1,20 @@
 ﻿<Properties StartupConfiguration="{4DDB9FBF-5B6F-4D07-8CEC-0E47B8E51E8A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="travelRecord/HomePage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="travelRecord/App.xaml">
     <Files>
-      <File FileName="travelRecord/MainPage.xaml" Line="16" Column="1" />
+      <File FileName="travelRecord/MainPage.xaml" Line="13" Column="27" />
       <File FileName="travelRecord/MainPage.xaml.cs" />
-      <File FileName="travelRecord/HomePage.xaml" Line="8" Column="50" />
-      <File FileName="travelRecord/App.xaml.cs" />
-      <File FileName="travelRecord/HomePage.xaml.cs" />
-      <File FileName="travelRecord/NewTravelPage.xaml" />
-      <File FileName="travelRecord/NewTravelPage.xaml.cs" />
+      <File FileName="travelRecord/HomePage.xaml" Line="16" Column="1" />
+      <File FileName="travelRecord/App.xaml.cs" Line="29" Column="1" />
+      <File FileName="travelRecord/App.xaml" Line="9" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="travelRecord" expanded="True">
             <Node name="travelRecord" expanded="True">
-              <Node name="App.xaml" expanded="True" />
+              <Node name="App.xaml" expanded="True" selected="True" />
               <Node name="HistoryPage.xaml" expanded="True" />
-              <Node name="HomePage.xaml" expanded="True" selected="True" />
+              <Node name="HomePage.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
               <Node name="MapPage.xaml" expanded="True" />
               <Node name="NewTravelPage.xaml" expanded="True" />
@@ -27,7 +25,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.travelRecord.iOS FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.travelRecord.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_oreo_8_1_-_api_27" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
