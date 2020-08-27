@@ -2,6 +2,7 @@
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/bin/Debug/netstandard2.0/travelRecord.dll
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/bin/Debug/netstandard2.0/ref/travelRecord.dll
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/bin/Debug/netstandard2.0/travelRecord.pdb
+/Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/travelRecord.csprojAssemblyReference.cache
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/HistoryPage.xaml.g.cs
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/HomePage.xaml.g.cs

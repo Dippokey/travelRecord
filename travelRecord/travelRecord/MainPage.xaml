@@ -23,6 +23,7 @@
                 Text="Log In"
                 Clicked="loginButton_Clicked"
                 Margin="0,50,0,0"
+                Style="{StaticResource SimpleButton}"
                 />
 
 

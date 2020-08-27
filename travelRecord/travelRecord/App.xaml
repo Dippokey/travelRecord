@@ -9,7 +9,7 @@
             <Color x:Key="LogInColor">#ff5A60</Color>
             <Color x:Key="LogInTextColor">#FFFFFF</Color>
 
-            <Style TargetType="Button">
+            <Style x:Key="SimpleButton" TargetType="Button">
                 <Setter Property="BackgroundColor" Value="{StaticResource LogInColor}"/>
                 <Setter Property="TextColor" Value="{StaticResource LogInTextColor}"/>
             </Style>
