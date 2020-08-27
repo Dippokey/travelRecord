@@ -2,9 +2,13 @@
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/bin/Debug/netstandard2.0/travelRecord.dll
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/bin/Debug/netstandard2.0/ref/travelRecord.dll
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/bin/Debug/netstandard2.0/travelRecord.pdb
-/Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/travelRecord.csprojAssemblyReference.cache
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/HistoryPage.xaml.g.cs
+/Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/MapPage.xaml.g.cs
+/Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/NewTravelPage.xaml.g.cs
+/Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/ProfilePage.xaml.g.cs
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/travelRecord.AssemblyInfoInputs.cache
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/travelRecord.AssemblyInfo.cs
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/travelRecord.csproj.CoreCompileInputs.cache
@@ -12,3 +16,4 @@
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/travelRecord.dll
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/ref/travelRecord.dll
 /Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/travelRecord.pdb
+/Users/dipnarayanroy/Projects/travelRecord/travelRecord/obj/Debug/netstandard2.0/travelRecord.csprojAssemblyReference.cache
